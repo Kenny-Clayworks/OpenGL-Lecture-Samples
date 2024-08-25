@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kenny\\source\\repos\\OpenGL Lecture\\code5-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33650F83-81E1-4B63-B920-304047A0BB99}|code5-7.vcxproj|C:\\Users\\kenny\\source\\repos\\OpenGL Lecture\\code5-7\\5_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{33650F83-81E1-4B63-B920-304047A0BB99}|code5-7.vcxproj|solutionrelative:5_7.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5_7.cpp",
+              "DocumentMoniker": "C:\\Users\\kenny\\source\\repos\\OpenGL Lecture\\code5-7\\5_7.cpp",
+              "RelativeDocumentMoniker": "5_7.cpp",
+              "ToolTip": "C:\\Users\\kenny\\source\\repos\\OpenGL Lecture\\code5-7\\5_7.cpp",
+              "RelativeToolTip": "5_7.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-24T09:23:03.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

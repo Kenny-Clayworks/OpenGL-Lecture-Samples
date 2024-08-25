@@ -1,0 +1,33 @@
+﻿  proj_1.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(12,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(12,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(14,33): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(14,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(17,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(17,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(17,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(18,30): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(18,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(18,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(88,25): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(88,20): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\proj_1.cpp(88,15): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  [CG]Project I.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\[CG]Project I\x64\Debug\[CG]Project I.exe
+  [31;1mSet-Content: [0mC:\Users\kenny\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:12
+  [36;1mLine |
+  [36;1m  12 | [0m     Set-Content -Path $copiedFilesLog -Value "" [36;1m-Encoding[0m UTF8
+  [36;1m     | [31;1m                                                 ~~~~~~~~~
+  [31;1m[36;1m     | [31;1mA parameter cannot be found that matches parameter name 'Encoding'.
+  [0m
+  [31;1mSplit-Path: [0mC:\Users\kenny\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:76
+  [36;1mLine |
+  [36;1m  76 | [0m     $baseTargetBinaryDir = Split-Path [36;1m$baseBinaryPath[0m -parent
+  [36;1m     | [31;1m                                       ~~~~~~~~~~~~~~~
+  [31;1m[36;1m     | [31;1mCannot bind argument to parameter 'Path' because it is null.
+  [0m
+  [31;1mSplit-Path: [0mC:\Users\kenny\vcpkg\scripts\buildsystems\msbuild\applocal.ps1:94
+  [36;1mLine |
+  [36;1m  94 | [0m     $targetBinaryDir = Split-Path [36;1m$targetBinaryPath[0m -parent
+  [36;1m     | [31;1m                                   ~~~~~~~~~~~~~~~~~
+  [31;1m[36;1m     | [31;1mCannot bind argument to parameter 'Path' because it is null.
+  [0m

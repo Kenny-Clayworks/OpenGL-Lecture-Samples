@@ -1,0 +1,5 @@
+﻿  5_13.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code5-13\5_13.cpp(16,7): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code5-13\5_13.cpp(16,12): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code5-13\5_13.cpp(16,17): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  code5-13.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code5-13\x64\Debug\code5-13.exe

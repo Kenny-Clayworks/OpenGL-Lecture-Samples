@@ -1,0 +1,7 @@
+﻿  5_12.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code5-12\5_12.cpp(38,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code5-12\5_12.cpp(39,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code5-12\5_12.cpp(40,31): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code5-12\5_12.cpp(41,31): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code5-12\5_12.cpp(48,23): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  code5-12.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code5-12\x64\Debug\code5-12.exe
