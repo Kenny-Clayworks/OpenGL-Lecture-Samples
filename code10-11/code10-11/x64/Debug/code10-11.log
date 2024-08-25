@@ -1,0 +1,19 @@
+﻿  10_11.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(6,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(6,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(6,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(8,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(8,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(9,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(9,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(13,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(13,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(16,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(16,43): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(16,48): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(17,38): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(17,43): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(17,48): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(53,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\10_11.cpp(53,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  code10-11.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\x64\Debug\code10-11.exe

@@ -1,0 +1,13 @@
+﻿  12_8.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(83,37): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(83,30): warning C4244: '인수': 'double'에서 'GLint'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(104,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(104,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(104,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(108,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(108,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(108,19): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(125,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(125,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\12_8.cpp(125,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  code12-8.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code12-8\x64\Debug\code12-8.exe

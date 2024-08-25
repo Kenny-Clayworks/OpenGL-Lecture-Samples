@@ -1,0 +1,2 @@
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\x64\Debug\freeglutd.dll
+C:\Users\kenny\source\repos\OpenGL Lecture\code10-11\code10-11\x64\Debug\code10-11.vcxproj.Up2Date

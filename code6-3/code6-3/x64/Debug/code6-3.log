@@ -1,0 +1,3 @@
+﻿  6_3.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-3\6_3.cpp(12,18): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  code6-3.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code6-3\x64\Debug\code6-3.exe

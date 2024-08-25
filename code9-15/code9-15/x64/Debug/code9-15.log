@@ -1,0 +1,10 @@
+﻿  9_15.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\9_15.cpp(51,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\9_15.cpp(52,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\9_15.cpp(53,31): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\9_15.cpp(54,31): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\9_15.cpp(65,25): warning C4244: '=': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\9_15.cpp(90,28): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\9_15.cpp(90,23): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\9_15.cpp(90,18): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  code9-15.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code9-15\x64\Debug\code9-15.exe

@@ -1,0 +1,10 @@
+﻿  15_2.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\15_2.cpp(28,31): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\15_2.cpp(81,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\15_2.cpp(81,40): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\15_2.cpp(81,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\15_2.cpp(82,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\15_2.cpp(83,35): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\15_2.cpp(83,46): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\15_2.cpp(92,6): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  code15-2.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code15-2\x64\Debug\code15-2.exe

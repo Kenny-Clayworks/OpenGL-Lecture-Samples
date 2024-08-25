@@ -1,0 +1,5 @@
+﻿  7_2.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code7-2\7_2.cpp(7,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code7-2\7_2.cpp(7,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code7-2\7_2.cpp(7,15): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  code7-2.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code7-2\x64\Debug\code7-2.exe

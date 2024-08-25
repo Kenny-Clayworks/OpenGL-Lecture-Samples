@@ -1,0 +1,12 @@
+﻿  8_3.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(6,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(6,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(8,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(8,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(11,34): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(11,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(11,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(12,34): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(12,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\8_3.cpp(12,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  code8-3.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code8-3\x64\Debug\code8-3.exe

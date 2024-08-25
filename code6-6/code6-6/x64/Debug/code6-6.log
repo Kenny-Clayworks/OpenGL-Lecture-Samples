@@ -1,0 +1,11 @@
+﻿  6_6.cpp
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(11,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(11,20): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(15,22): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(17,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(17,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(21,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(22,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(22,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\6_6.cpp(22,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  code6-6.vcxproj -> C:\Users\kenny\source\repos\OpenGL Lecture\code6-6\x64\Debug\code6-6.exe
